@@ -1,4 +1,4 @@
-## Mongoose
+## Introduction to Mongoose
 
 Mongoose is a tool for Node.js that makes it easier to work with a MongoDB database. It helps you:
 
