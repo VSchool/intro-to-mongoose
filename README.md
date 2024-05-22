@@ -1,7 +1,3 @@
-# Introduction: Mongoose & dotenv
-
-This guide provides a foundational understanding of Mongoose and the dotenv package, commonly used together in Node.js applications for interacting with MongoDB databases and managing sensitive configurations.
-
 ## Mongoose
 
 Mongoose is a tool for Node.js that makes it easier to work with a MongoDB database. It helps you:
