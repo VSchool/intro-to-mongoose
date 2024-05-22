@@ -10,7 +10,7 @@ Mongoose is a tool for Node.js that makes it easier to work with a MongoDB datab
 
 - Add custom logic: You can add custom behaviors before or after certain actions using middleware.
 
-Think of Mongoose as a bridge between your Node.js application and your MongoDB database, making database interactions smoother and more reliable.
+Think of Mongoose as a bridge between your Express server and your MongoDB database, making database interactions smoother and more reliable.
 
 ## dotenv
 
