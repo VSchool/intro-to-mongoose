@@ -24,6 +24,7 @@ dotenv is a tool for Node.js that helps you keep your sensitive information, lik
 
 Mongoose often requires configuration details such as your MongoDB connection string. By storing this information in the `.env` file, you can easily manage different environments (development, production, testing) without exposing sensitive data in your code. dotenv helps achieve this by loading environment variables from the `.env` file and making them accessible within your Mongoose configuration.
 
+https://github.com/VSchool/intro-to-mongoose.git
 
 - [Mongoose Documentation](https://mongoosejs.com/docs/)
 - [dotenv Package](https://www.npmjs.com/package/dotenv)
